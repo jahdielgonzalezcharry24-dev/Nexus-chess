@@ -1,0 +1,18 @@
+{
+  "exportedAt": "2026-11-25T23:24:26.060Z",
+  "exportDurationMs": 1123333,
+  "fileCount": 200,
+  "assetCount": 0,
+  "resolvedAssetCount": 0,
+  "missingAssets": [],
+  "warnings": [],
+  "diagnostics": {
+    "exportState": "IDLE",
+    "assetCount": 0,
+    "pendingFetches": 0,
+    "pendingImages": 0,
+    "domNodeCount": 7319,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36",
+    "exportDurationMs": 1123333
+  }
+}
